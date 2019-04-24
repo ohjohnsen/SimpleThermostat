@@ -1,7 +1,7 @@
 
-// Name:		SimpleThermostat.ino
-// Created:	4/24/2019 7:10:45 PM
-// Author:	Øystein Holvik Johnsen
+// Name:    SimpleThermostat.ino
+// Created: 24.04.2019 19:10:45
+// Author:  Øystein Holvik Johnsen
 
 #include <OneWire.h>
 #include <DallasTemperature.h>
