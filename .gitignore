@@ -1,1 +1,4 @@
 
+#Ignore these files and folders
+.vs
+Debug
