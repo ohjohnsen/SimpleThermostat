@@ -4,6 +4,8 @@
 
 This is a simple circuit using an Arduino Uno to first read temperature values from a DS18B20 one-wire temperature sensor, then present the temperature readings on a 2x16 character LCD display, and finally turn on or off a fan motor if the temperature is higher or lower than the predefined temperature threshold.
 
+Note: For testing the circuit, you can use your hand to heat up the sensor (or a soldering iron, if you're in a hurry).  For cooling down, I recommend using a compressed air cannister.  If you hold the container upside-down when pressing the cap, the liquid inside the cannister will be forced out, cooling down very fast when the liquid vaporizes.
+
 - - - -
 
 ### Circuit Drawing ###
