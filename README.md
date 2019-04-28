@@ -3,7 +3,9 @@
 ### Introduction ###
 
 This is a simple circuit using an Arduino Uno to first read temperature values from a DS18B20 one-wire temperature sensor, then present the temperature readings on a 2x16 character LCD display, and finally turn on or off a fan motor if the temperature is higher or lower than the predefined temperature threshold.
+
 - - - -
+
 ### Circuit Drawing ###
 
 ![](https://raw.githubusercontent.com/ohjohnsen/MediaContent/master/SimpleThermostat/SimpleThermostat_Tinkercad_circuit.png)
@@ -23,3 +25,9 @@ This is a simple circuit using an Arduino Uno to first read temperature values f
 | M1 | 1 | DC Motor |
 | U3 | 1 | Temperature Sensor (DS18B20) |
 | R3 | 1 | 4.7 kΩ Resistor |
+
+- - - -
+
+### Demonstration (YouTube) ###
+
+[![Watch the video](https://img.youtube.com/vi/DAfs9mYm1CU/maxresdefault.jpg)](https://youtu.be/DAfs9mYm1CU)
