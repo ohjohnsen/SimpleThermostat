@@ -6,7 +6,7 @@ This is a simple circuit using an Arduino Uno to first read temperature values f
 - - - -
 ### Circuit Drawing ###
 
-<img src="Images/2019-04-28_SimpleThermostat_Tinkercad.png">
+![](https://raw.githubusercontent.com/ohjohnsen/MediaContent/master/SimpleThermostat/SimpleThermostat_Tinkercad_circuit.png)
 
 - - - -
 
